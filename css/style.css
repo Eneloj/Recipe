@@ -1,0 +1,353 @@
+
+body{
+	
+	margin: 0px 0px 0px 0px;
+	background-color: #f0e4d1
+}
+#head img{
+	width: 15%;
+	margin-left: 100px}
+#head{
+	/*background-color: #f0e4d1;oyalblue;*/
+	margin-top: 5px;
+	border-bottom: 10px solid maroon;
+
+}
+#head ul li a{
+
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+
+}
+#head ul {
+	list-style-type: none;
+	display: inline;
+	word-spacing: 40px;
+	margin-left: 670px;
+}
+#head ul li{
+	display: inline-block;
+	
+}
+#back{
+	/*margin-top: -50px;
+	width: 1057px;
+	width: 1400px;
+	width: 100%;
+	----
+		width: 1400px;
+	height: 550px;
+	<img src="img/slider1.jpg"/>
+====
+	padding-top: 400px;
+	padding-bottom: 130px;
+
+	*/
+	background: url("../img//home/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+
+
+}
+
+.a{
+	border-bottom: solid maroon;
+}
+.b{
+	font-size: 55px;
+}
+#txtback {
+	border-radius: 10px;
+	background-color: white;
+	color: black;
+	margin-bottom: 400px;
+	border: 2px solid white;
+	text-align: center;
+margin-left: 550px;
+	width: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	font-size: 25px;
+	
+}
+#bod h2{
+	margin-top: 0px;
+	/*background-color: #f0e4d1;*/
+	background-color: maroon;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 100px;
+	color: white;
+}
+#bod img{
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-left: 115px;
+	margin-right: -60px;
+	width: 25%;
+	border: 8px solid black;
+}
+#bodtxt a img:hover{
+border:8px solid maroon;
+}
+#bod{
+	margin-bottom: 50px;
+}
+.c{	
+	margin-left: -260px;
+	color: black;
+}
+.cc{
+	margin-left: -160px;
+	margin-right: 55px;
+	color: black;
+}
+.ccc{
+	margin-left: -190px;
+	color: black;
+}
+#bodtxt a{
+	text-decoration: none;
+	font-size: 17px;
+}
+.c:hover,.cc:hover,.ccc:hover{
+	color: maroon;}
+
+#footer{
+	background-color: maroon;
+	padding: 60px;
+	color: white;
+	text-align: center;
+
+}
+
+#heads{
+	background-color: maroon;
+	color: white;
+	font-size: 40px;
+	margin-top: -10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 120px;
+}
+p{
+	text-indent: 50px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+#eng table, tr, th ,td{
+	border: 3px solid black;
+	padding: 20px;
+	width: 800px;
+}
+#eng table{
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: 350px;
+
+}
+#eng table th{
+	background-color: maroon;
+	color: white;
+}
+#eng img{
+	width: 25%;
+	margin-top: 27px;
+	margin-left: 150px;
+	border: 5px solid black;
+}
+
+#ingre{
+	float: right;
+	margin-top: 90px;
+	margin-right: 300px;
+}
+#pro{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#egg_1{
+	float: right;
+	margin-top: 90px;
+	margin-right: 600px;
+}
+#egg_2{
+	float: right;
+	margin-top: -250px;
+	margin-right: 200px;
+}
+#rec{
+	float: right;
+	margin-top: 90px;
+	margin-right: 600px;
+}
+#add{
+	float: right;
+	margin-top: -250px;
+	margin-right: 200px;
+}
+
+#rec1 img{
+	width: 25%;
+	border: 8px solid black;
+	margin-top: 15px;
+	margin-left: 150px;
+	margin-bottom: 15px;
+
+}
+#rec1 h3{
+	float: right;
+	margin-top: 60px;
+	margin-right: 500px;
+	/*border-bottom: 5px solid maroon;*/
+	
+}
+
+#rec1 p{
+margin-top:-250px;
+margin-left: 630px;
+margin-right: 150px;
+margin-bottom: 20px;
+}
+
+.q{
+	border: 2px solid black;
+	padding: 15px;
+	border-radius: 15px;
+	margin-left: 920px;
+
+}
+#rec1 a{
+text-decoration: none;
+color: black;
+}
+#rec2 img, #rec3 img,#rec4 img,#rec45 img,#rec6 img,#rec7 img{
+	width: 32%;
+	border: 8px solid black;
+	margin-top: 20px;
+	/*margin-left: 150px;*/
+	margin-bottom: 15px;
+}
+#rec2,#rec3,#rec4,#rec5,#rec6,#rec7{
+	margin-top: 160px;
+		border-top: 3px solid maroon;
+		margin-right: 150px;
+		margin-left: 150px;
+	}
+#rec2 h3,#rec3 h3,#rec4 h3,#rec5 h3,#rec7 h3{
+	float: right;
+	/*margin-top: 60px;
+	margin-right: 685px;*/
+	margin-top: 50px;
+	margin-right: 500px;
+
+}
+#rec6 h3{
+	float: right;
+	/*margin-top: 60px;
+	margin-right: 685px;*/
+	margin-top: 50px;
+	margin-right: 400px;
+
+}
+#rec7 h3{
+	float: right;
+	/*margin-top: 60px;
+	margin-right: 685px;*/
+	margin-top: 40px;
+	margin-right: 230px;
+}
+#rec2 p, #rec3 p, #rec4 p, #rec5 p, #rec6 p, #rec7 p{
+margin-top:-250px;
+/*margin-left: 630px;
+margin-right: 150px;*/
+margin-left: 480px;
+margin-right: 10px;
+margin-bottom: 20px;
+}
+.w,.ww,.www,.wwww,.wwwww,.wq{
+	text-decoration: none;
+	border: 2px solid black;
+	padding: 15px;
+	border-radius: 15px;
+	margin-left: 780px;
+	}
+
+#rec2 a, #rec3 a, #rec4 a, #rec5 a, #rec6 a, #rec7 a{
+text-decoration: none;
+color: black;
+}
+#lasagne{
+	float: right;
+	margin-top: 30px;
+	margin-right: 560px;
+}
+#lasagne2{
+	float: right;
+	margin-top: -280px;
+	margin-right: 300px;
+}
+#crum{
+	float: right;
+	margin-top: -310px;
+	margin-right: 350px;
+}
+.uni{
+	float: left;
+	width: 125%;
+}
+#about img{
+	width: 25%;
+	margin-top: 50px;
+	margin-left: 500px;
+	border: 5px solid black;
+}
+p {
+	margin-left: 380px;
+}
+#recc2 h3{
+	float: right;
+	/*margin-top: 60px;
+	margin-right: 685px;*/
+	margin-top: 50px;
+	margin-right: 200px;
+}
+#beng table, tr, th ,td{
+	border: 3px solid black;
+	padding: 20px;
+	width: 800px;
+}
+#beng table{
+	border-collapse: collapse;
+	text-align: center;
+	margin-left: 350px;
+
+}
+#beng table th{
+	background-color: maroon;
+	color: white;
+}
+#beng img{
+	width: 25%;
+	margin-top: 27px;
+	margin-left: 150px;
+	border: 5px solid black;
+}
+#jas{
+	float: right;
+	margin-top: -300px;
+	margin-right: 300px;
+}
+#jass{
+	float: right;
+	margin-top: -280px;
+	margin-right: 100px;
+}
+#pro{
+	margin-left: 150px;
+	margin-right: 200px;
+
+}
